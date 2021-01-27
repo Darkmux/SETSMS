@@ -9,9 +9,9 @@ Es una herramienta de automatización de spam de mensajes de texto a un número 
 #
 [√] Parrot Sec
 # REQUISITOS
-[√] git
+[-] git
 #
-[√] python3
+[-] python3
 # INSTALACIÓN
 git clone https://github.com/Darkmux/SETSMS
 #
